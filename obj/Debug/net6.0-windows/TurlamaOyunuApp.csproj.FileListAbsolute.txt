@@ -1,0 +1,17 @@
+C:\Users\moonm\source\repos\TurlamaOyunuApp\TurlamaOyunuApp\bin\Debug\net6.0-windows\TurlamaOyunuApp.exe
+C:\Users\moonm\source\repos\TurlamaOyunuApp\TurlamaOyunuApp\bin\Debug\net6.0-windows\TurlamaOyunuApp.deps.json
+C:\Users\moonm\source\repos\TurlamaOyunuApp\TurlamaOyunuApp\bin\Debug\net6.0-windows\TurlamaOyunuApp.runtimeconfig.json
+C:\Users\moonm\source\repos\TurlamaOyunuApp\TurlamaOyunuApp\bin\Debug\net6.0-windows\TurlamaOyunuApp.dll
+C:\Users\moonm\source\repos\TurlamaOyunuApp\TurlamaOyunuApp\bin\Debug\net6.0-windows\TurlamaOyunuApp.pdb
+C:\Users\moonm\source\repos\TurlamaOyunuApp\TurlamaOyunuApp\obj\Debug\net6.0-windows\TurlamaOyunuApp.Form1.resources
+C:\Users\moonm\source\repos\TurlamaOyunuApp\TurlamaOyunuApp\obj\Debug\net6.0-windows\TurlamaOyunuApp.Properties.Resources.resources
+C:\Users\moonm\source\repos\TurlamaOyunuApp\TurlamaOyunuApp\obj\Debug\net6.0-windows\TurlamaOyunuApp.csproj.GenerateResource.cache
+C:\Users\moonm\source\repos\TurlamaOyunuApp\TurlamaOyunuApp\obj\Debug\net6.0-windows\TurlamaOyunuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moonm\source\repos\TurlamaOyunuApp\TurlamaOyunuApp\obj\Debug\net6.0-windows\TurlamaOyunuApp.AssemblyInfoInputs.cache
+C:\Users\moonm\source\repos\TurlamaOyunuApp\TurlamaOyunuApp\obj\Debug\net6.0-windows\TurlamaOyunuApp.AssemblyInfo.cs
+C:\Users\moonm\source\repos\TurlamaOyunuApp\TurlamaOyunuApp\obj\Debug\net6.0-windows\TurlamaOyunuApp.csproj.CoreCompileInputs.cache
+C:\Users\moonm\source\repos\TurlamaOyunuApp\TurlamaOyunuApp\obj\Debug\net6.0-windows\TurlamaOyunuApp.dll
+C:\Users\moonm\source\repos\TurlamaOyunuApp\TurlamaOyunuApp\obj\Debug\net6.0-windows\refint\TurlamaOyunuApp.dll
+C:\Users\moonm\source\repos\TurlamaOyunuApp\TurlamaOyunuApp\obj\Debug\net6.0-windows\TurlamaOyunuApp.pdb
+C:\Users\moonm\source\repos\TurlamaOyunuApp\TurlamaOyunuApp\obj\Debug\net6.0-windows\TurlamaOyunuApp.genruntimeconfig.cache
+C:\Users\moonm\source\repos\TurlamaOyunuApp\TurlamaOyunuApp\obj\Debug\net6.0-windows\ref\TurlamaOyunuApp.dll
