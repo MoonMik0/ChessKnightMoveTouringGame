@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TurlamaOyunuApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd3c788c428b9d7eb32b2002511db5938ece76bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("TurlamaOyunuApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TurlamaOyunuApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
